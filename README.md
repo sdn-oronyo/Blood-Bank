@@ -1,2 +1,2 @@
-# Blood-Grouping-Project
-Blood Grouping Project using php
+# Blood-Bank
+This is a blood bank with PHP and MySQL.
